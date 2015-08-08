@@ -1,0 +1,8 @@
+# Logs
+*.log
+
+# Dependencies
+node_modules
+
+# Generated
+/public/bundle*
